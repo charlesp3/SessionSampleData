@@ -1,0 +1,70 @@
+{
+    "sessions": [
+        {
+            "name": "P.A.I.L's & R.A.I.L's",
+            "intervals": [
+                {
+                    "name": "Stretch",
+                    "duration": 120
+                },
+                {
+                    "name": "Build up - P.A.I.L's",
+                    "duration": 10
+                },
+                {
+                    "name": "Hold stretch - P.A.I.L's",
+                    "duration": 10
+                },
+                {
+                    "name": "Invert stretch - P.A.I.L's",
+                    "duration": 10
+                },
+                {
+                    "name": "Deeper stretch",
+                    "duration": 120
+                }
+            ]
+        },
+        {
+            "name": "Assault Bike",
+            "intervals": [
+                {
+                    "name": "Warm-up 50%",
+                    "duration": 120
+                },
+                {
+                    "name": "Sprint - 70%",
+                    "duration": 60
+                },
+                {
+                    "name": "Rest - 50%",
+                    "duration": 120
+                },
+                {
+                    "name": "Sprint - 80%",
+                    "duration": 60
+                },
+                {
+                    "name": "Rest - 50%",
+                    "duration": 120
+                },
+                {
+                    "name": "Sprint - 90%",
+                    "duration": 60
+                },
+                {
+                    "name": "Rest - 50%",
+                    "duration": 120
+                },
+                {
+                    "name": "Sprint - 100%",
+                    "duration": 60
+                },
+                {
+                    "name": "Cooldown - 50% -> 10%",
+                    "duration": 180
+                }
+            ]
+        }
+    ]
+}
